@@ -9,14 +9,14 @@
 		],
 		"type": "AzureFunction",
 		"typeProperties": {
-			"functionAppUrl": "https://cumulusfunctionappdev.azurewebsites.net",
+			"functionAppUrl": "https://cfcadvwksdevfuncuks01.azurewebsites.net",
 			"functionKey": {
 				"type": "AzureKeyVaultSecret",
 				"store": {
 					"referenceName": "cumuluskeys",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "cumulusfunctionsKey"
+				"secretName": "cfcadvwksdevfuncuks01"
 			},
 			"authentication": "Anonymous"
 		}
