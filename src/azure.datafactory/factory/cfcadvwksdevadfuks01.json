@@ -1,0 +1,9 @@
+{
+	"name": "cfcadvwksdevadfuks01",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "774fe4e9-bc72-407c-8d8b-32260ea0ef0a",
+		"tenantId": "d562890e-82fc-42c7-8033-b62200df3d96"
+	}
+}
